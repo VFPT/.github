@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <b><a href="https://www.fortiestudios.ga/">Website Contact</a> • <a href="https://github.com/fortiesstudios">Github Organization</a></b>
+    <b><a href="https://www.fortiestudios.ga/">Website Contact</a> • <a href="https://github.com/fortiestudios">Github Organization</a></b>
 </p>
 
 <p align="center">
