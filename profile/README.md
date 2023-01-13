@@ -1,7 +1,7 @@
 ## 40's Studios
 
 <h1 align="center">
-    <a href="https://github.com/fortiesstudios" target="_blank">
+    <a href="https://github.com/fortiestudios" target="_blank">
         <img height="60%" width="60%" src="https://raw.githubusercontent.com/fortiesstudios/branding/main/images/banner/banner-corner-60px.png"><br>
     </a>
 </h1>
