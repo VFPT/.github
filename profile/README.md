@@ -1,4 +1,4 @@
-## 40's Studios
+## Slash, Inc.
 
 <h1 align="center">
     <a href="https://github.com/fortiestudios" target="_blank">
