@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://github.com/slashdevelopment" target="_blank">
-        <img height="60%" width="60%" src="https://raw.githubusercontent.com/slashdevelopment/branding/main/images/banner/banner-corner-60px.png?token=GHSAT0AAAAAAB5UQABK2DOC7HTMKWNR4OKYY7CL5GQ"><br>
+        <img height="60%" width="60%" src="https://github.com/slashdevelopment/branding/blob/main/images/banner/banner-corner-60px.png?raw=true"><br>
     </a>
 </h1>
 
