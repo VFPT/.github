@@ -2,16 +2,16 @@
 
 <h1 align="center">
     <a href="https://github.com/slashdevelopment" target="_blank">
-        <img height="60%" width="60%" src="https://github.com/slashdevelopment/branding/blob/main/images/banner/banner-corner-60px.png?raw=true"><br>
+        <img height="60%" width="60%" src="https://github.com/slashdevelopment/branding/blob/main/images/banner/banner-corner-60px-rebrand.png"><br>
     </a>
 </h1>
 
 <p align="center">
-    <b><a href="https://website-incslash.vercel.app/">Website Contact</a> • <a href="https://github.com/slashdevelopment">Github Organization</a></b>
+    <b><a href="http://localhost:3000/">Website Contact</a> • <a href="https://github.com/slashdevelopment">Github Organization</a></b>
 </p>
 
 <p align="center">
-   <b>Slash, Inc.</b> is a developer and distributor of video games.
+   <b>Slash, Inc.</b> is a developer and distributor.
 </p>
 
 ---
