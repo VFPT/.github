@@ -22,5 +22,5 @@ You can contact the developers of VFPT, Inc. at our <b><a href="https://discord.
 
 #### Copyright
 
-© 2022-2023, VFPT, Inc. VFPT, VFPT Studio, the VFPT logo, Ovra (Ovra Store, S.A.) and the Ovra logo are trademarks or registered 
+© 2022-2024, VFPT, Inc. VFPT, VFPT Studio, the VFPT logo, Ovra (Ovra Store, S.A.) and the Ovra logo are trademarks or registered 
 trademarks of VFPT, Inc. in the European Union (UE) and elsewhere. All rights reserved.
