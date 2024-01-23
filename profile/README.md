@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <b><a href="http://localhost:3000/">Website Contact</a> • <a href="https://github.com/">Github Organization</a></b>
+    <b><a href="http://localhost:3000/">Website Contact</a> • <a href="https://github.com/VFPT">Github Organization</a></b>
 </p>
 
 <p align="center">
