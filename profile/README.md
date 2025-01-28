@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://github.com/VFPT" target="_blank">
-        <img height="60%" width="60%" src="https://i.ibb.co/f28HhkR/Dise-o-sin-t-tulo-8.png"><br>
+        <img height="60%" width="60%" src="https://i.ibb.co/G0nYYqw/VFPT.png"><br>
     </a>
 </h1>
 
