@@ -1,4 +1,4 @@
-## VFPT, Inc.
+## VFPT.
 
 <h1 align="center">
     <a href="https://github.com/VFPT" target="_blank">
